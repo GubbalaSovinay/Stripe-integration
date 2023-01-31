@@ -1,0 +1,11 @@
+.form-bg {
+    background-color: rgb(242, 242, 242);
+    border-radius: 20px;
+}
+.c-container{
+    background-color: rgb(231, 226, 226); 
+    border-radius: 20px;
+}
+.payment{
+    font-size:large;
+}
